@@ -17,6 +17,18 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "id": "8d2e",
+      "text": "test",
+      "day": "April 8th",
+      "reminder": false
+    },
+    {
+      "id": "c061",
+      "text": "buy milk",
+      "day": "30 March",
+      "reminder": true
     }
   ]
 }
